@@ -1,0 +1,14 @@
+/Target
+.metadata/
+.settings/
+bin/
+tmp/
+
+# ARQUIVOS
+*.bak
+*.class
+*.pydevproject
+*~.nib
+*.swp
+*.tmp
+/target
